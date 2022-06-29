@@ -21,7 +21,7 @@
     <link rel="stylesheet" type="text/css" href="{{asset('css/backup.css')}}">
 
 </head>
-<body >
+<body background="{{ asset('all.jpg') }}">
 
 <div class="wrapper fadeInDown">
   <div id="formContent">

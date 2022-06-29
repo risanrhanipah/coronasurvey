@@ -217,7 +217,7 @@
 </div>
 <div class="row">
     <div class="col-md-4 offset-md-6">
-        <input type="submit" value="Check">
+        <input type="submit" value="Check" class="btn btn-primary" value="selesai">
     </div>
 </div>
 </form>

@@ -20,7 +20,7 @@
     <link rel="stylesheet" type="text/css" href="{{asset('css/style.css')}}">
 
 </head>
-<body >
+<body background="{{ asset('alhamdu.jpg') }}">
 
 <div class="form-group">
   <div id="formContent">
